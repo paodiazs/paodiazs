@@ -1,11 +1,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3700F7&width=435&lines=Vivir+creando+Crear+viviendo)](https://git.io/typing-svg)
 
-⭐️ Hi, I’m Pao <br>
-🌱 I’m currently learning (always learning)<br>
-🧠 I like to read, listen to music, enjoy the little things<br>
+⭐️ Hola, soy Pao <br>
+🌱 Actualmente estoy aprendiendo (siempre aprendiendo)<br>
+🧠 Me gusta crear tecnología creativa, leer, escuchar música, disfrutar de lo que me apasiona y siempre buscar lo que me apasiona<br>
 
-## 🌐 Socials:
+## 🌐 Encuéntrame en:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t3chwithpao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paola-diaz-ser/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@t3chwithpao) 
 
 # 💻 Tech Stack:
