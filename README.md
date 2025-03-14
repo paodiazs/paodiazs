@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola, soy Pao ⭐️
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3700F7&width=435&lines=Vivir+creando)](https://git.io/typing-svg)
 
 <!--
 **paodiazs/paodiazs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
