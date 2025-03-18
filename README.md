@@ -9,23 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.linkedin.com/in/paola-diaz-ser/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/?size=100&id=8808&format=png&color=0139ff"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.instagram.com/t3chwithpao?igsh=dmU2ZXNqYTVkMDJx&utm_source=qr"><img width="32px" alt="Instagram" title="Instagram" src="https://img.icons8.com/?size=100&id=32292&format=png&color=0139ff"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="paodiazserrano@gmial.com"><img width="32px" alt="Contact" title="Contact" src="https://img.icons8.com/?size=100&id=59835&format=png&color=0139ff"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://medium.com/@paodiazserrano" alt="Medium" title="Medium"><img width="32px" src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=0139ff"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
 ⭐️ Hola, soy Pao <br>
-🌱 Actualmente estoy aprendiendo (siempre aprendiendo)<br>
 🧠 Me gusta crear tecnología creativa, leer, escuchar música, disfrutar de lo que me apasiona y siempre buscar lo que me apasiona<br>
 
 ## 🌐 Encuéntrame en:
